@@ -1,0 +1,17 @@
+kymatio
+livelossplot
+pyEDFlib
+mne
+numpy
+pandas
+matplotlib
+keras 
+tensorflow
+# cv2
+scikit-learn
+scipy
+glob2
+matplotlib
+seaborn 
+kymatio
+# pywt
